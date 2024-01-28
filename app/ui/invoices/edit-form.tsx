@@ -144,7 +144,7 @@ export default function EditInvoiceForm({
         </fieldset>
         <div>
           {state.message && (
-            <p className="mt-2 text-sm text-red-500">{state.message} okok</p>
+            <p className="mt-2 text-sm text-red-500">{state.message}</p>
           )}
         </div>
       </div>
